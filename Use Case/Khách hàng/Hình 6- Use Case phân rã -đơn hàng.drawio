@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT">
+  <diagram id="donhang-uc" name="Use Case - Don hang">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" value="USE CASE PHÂN RÃ - ĐƠN HÀNG" vertex="1">
+          <mxGeometry height="40" width="520" x="340" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-5" edge="1" parent="1" source="actor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="udpx5SKvzuLfxwkmREfh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428.9195577687233" y="289.7471439756198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-7" edge="1" parent="1" source="actor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="udpx5SKvzuLfxwkmREfh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcYK3OcDmZOQmRAu5f4Y-4" edge="1" parent="1" source="actor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="AcYK3OcDmZOQmRAu5f4Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcYK3OcDmZOQmRAu5f4Y-5" edge="1" parent="1" source="actor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="AcYK3OcDmZOQmRAu5f4Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="actor" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" value="Khách hàng" vertex="1">
+          <mxGeometry height="130" width="70" x="310" y="283" as="geometry" />
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Chỉnh sửa đơn hàng" vertex="1">
+          <mxGeometry height="78" width="260" x="495" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Theo dõi đơn hàng" vertex="1">
+          <mxGeometry height="78" width="260" x="491" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Quản lý đơn hàng" vertex="1">
+          <mxGeometry height="78" width="260" x="495" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="udpx5SKvzuLfxwkmREfh-8" edge="1" parent="1" source="actor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="udpx5SKvzuLfxwkmREfh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411" y="519" as="sourcePoint" />
+            <mxPoint x="717" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcYK3OcDmZOQmRAu5f4Y-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Hủy đơn hàng" vertex="1">
+          <mxGeometry height="78" width="260" x="487" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="AcYK3OcDmZOQmRAu5f4Y-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="Tra cứu đơn hàng" vertex="1">
+          <mxGeometry height="78" width="260" x="487" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
